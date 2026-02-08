@@ -134,13 +134,9 @@ or use a simple live server extension.
 ## Learning Philosophy
 
 - No direct solutions
-
 - Pattern-first problem solving
-
 - Progressive hint system
-
 - Interview-oriented thinking
-
 - Ethical and responsible AI usage
 
 ## Author
